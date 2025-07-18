@@ -8,7 +8,7 @@ body {
 }
 
 .card {
-    background-color: none;
+    background-color: palevioletred;
     border: 4px solid red;
     border-radius: 20px;
     box-shadow: 10px 10px 10px 20px rgba(250, 90, 210, 0.25);
@@ -23,7 +23,7 @@ body {
 
 .message p {
     font-size: 18px;
-    color: red;
+    color: rgb(8, 8, 8);
     margin: 20px 0;
 }
 
